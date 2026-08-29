@@ -1,4 +1,3 @@
-# Salve este arquivo em: .github/workflows/generate-snake.yml
 # O workflow publica os SVGs da animação na branch "output" do repositório de perfil.
 
 name: Generate contribution snake
